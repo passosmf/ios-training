@@ -1,0 +1,6 @@
+framework module Pods_FipeMVVM_FipeMVVMUITests {
+  umbrella header "Pods-FipeMVVM-FipeMVVMUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

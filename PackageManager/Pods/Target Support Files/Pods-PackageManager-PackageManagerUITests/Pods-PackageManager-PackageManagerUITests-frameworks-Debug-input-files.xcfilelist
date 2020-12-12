@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-PackageManager-PackageManagerUITests/Pods-PackageManager-PackageManagerUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CardScanner/CardScanner.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
